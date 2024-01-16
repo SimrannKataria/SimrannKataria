@@ -1,15 +1,9 @@
 ### Hi there 👋, I'm Simran
 
-Languages and Tools:
 
-Programming Languages:
 
- javascript  java  c  python
+Programming Languages: javascript  java  c  python
 
-Frontend Technologies:
+Frontend Technologies: html5  css3  javascript   figma
 
- html5  css3  javascript   figma
-
-Databases:
-
- mysql  
+Databases: mysql  
