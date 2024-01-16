@@ -18,4 +18,4 @@
 ## Connect with Me
 
 - **Email:** [sim.kataria@gmail.com](mailto:sim.kataria@gmail.com)
-- **LinkedIn:** (https://www.linkedin.com/in/simrannkaurr/)https://www.linkedin.com/in/simrannkaurr/](#)
+- **LinkedIn:** [https://www.linkedin.com/in/simrannkaurr/]
