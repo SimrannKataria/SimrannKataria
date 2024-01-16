@@ -1,9 +1,21 @@
-### Hi there 👋, I'm Simran
+## Hi there! 👋 I'm Simran
 
+### Programming Languages
+- JavaScript
+- Java
+- C
+- Python
 
+### Frontend Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Figma
 
-Programming Languages: javascript  java  c  python
+### Databases
+- MySQL
 
-Frontend Technologies: html5  css3  javascript   figma
+## Connect with Me
 
-Databases: mysql  
+- **Email:** [sim.kataria@gmail.com](mailto:sim.kataria@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/feed/](#)
