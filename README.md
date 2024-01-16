@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Simran
 
-##A passionate Computer Science student studying at George Mason University
+## A passionate Computer Science student studying at George Mason University
 
 ### Programming Languages
 - JavaScript
