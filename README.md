@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Simran
+## Hi 👋, I'm Simran
 
 ### Programming Languages
 - JavaScript
